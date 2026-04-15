@@ -1,0 +1,4 @@
+# OpenClaw-Bot Requirements
+python-telegram-bot
+requests
+python-dotenv
